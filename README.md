@@ -20,13 +20,18 @@ data should be formatted like devd.json
 
 ## scheduler
 ### Without scheduler
-![[Screenshot 2022-12-26 at 21.27.54.png]]![[Screenshot 2022-12-26 at 21.22.46.png]]
+```text 
+Epoch 200 / 200
+train_loss: 0.085011691190578331
+learning_rate: 0.001
+```
+[[Screenshot 2022-12-26 at 21.22.46.png]]
 
 ### with lr scheduler 
 multiplicative .98 after 100
 ```text 
 Epoch 200 / 200
 train_loss: 0.003435501190578331
-0.0001380878341261484
+learning_rate: 0.0001380878341261484
 ```
 ![[Screenshot 2022-12-27 at 13.49.45.png]]
