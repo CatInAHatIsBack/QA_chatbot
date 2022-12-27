@@ -25,7 +25,7 @@ Epoch 200 / 200
 train_loss: 0.085011691190578331
 learning_rate: 0.001
 ```
-![no_sceduler](https://github.com/git@github.com:CatInAHatIsBack/QA_chatbot/tree/master/master/assets/no_sceduler.png?raw=true)
+![no_sceduler](https://github.com/git@github.com:CatInAHatIsBack/QA_chatbot/tree/master/assets/no_sceduler.png?raw=true)
 
 ### with lr scheduler 
 multiplicative .98 after 100
