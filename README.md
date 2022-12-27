@@ -34,4 +34,4 @@ Epoch 200 / 200
 train_loss: 0.003435501190578331
 learning_rate: 0.0001380878341261484
 ```
-![[Screenshot 2022-12-27 at 13.49.45.png]]
+![no_sceduler](https://github.com/CatInAHatIsBack/QA_chatbot/blob/master/assets/sceduler.png?raw=true)
